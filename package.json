@@ -13,7 +13,7 @@
     "url": "https://github.com/gor181/react-chartjs-2/issues"
   },
   "dependencies": {
-    "chart.js": "^2.2.0-rc.1"
+    "chart.js": "github:ActivePipe/Chart.js#2.2.1-activepipe"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.3",
